@@ -14,10 +14,10 @@ The results of this analysis provide helpful information for Steve's parents as 
 
 The tables below summarize total daily volume and return for each of the 12 stocks in 2017 and 2018.
 
-##2018
+#### 2018
 ![](/Resources/VBA_Challenge_2018_Output.png).
 
-##2017
+#### 2017
 ![](/Resources/VBA_Challenge_2017_Output.png).
 
 
