@@ -22,8 +22,8 @@ The tables below summarize total daily volume and return for each of the 12 stoc
 
 ## Refactored Analysis
 The refactored analysis resulted in shorter run times for both 2017 and 2018 analyses:
--The refactored run time for 2018 was 0.1367188 seconds (compared to original run time of 0.8203125).
--The refactored run time for 2017 was 0.2617188 seconds (compared to original run time of 0.8359375).
+- The refactored run time for 2018 was 0.1367188 seconds (compared to original run time of 0.8203125).
+- The refactored run time for 2017 was 0.2617188 seconds (compared to original run time of 0.8359375).
 
 ### Refactored run time (2018)
 ![](/Resources/VBA_Challenge_2018.png).
